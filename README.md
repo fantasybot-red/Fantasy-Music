@@ -1,2 +1,7 @@
 # Fantasy-Music
-[![visits](https://github-visit-counter.herokuapp.com/duongtuan303030/Fantasy-Music/visits.svg)](#)
+
+old music modun for fantasy bot
+
+<a href="https://top.gg/bot/931353470353674291">
+  <img src="https://top.gg/api/widget/931353470353674291.svg">
+</a>
